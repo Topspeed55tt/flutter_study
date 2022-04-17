@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
                 radius: 50.0,
                 backgroundImage: AssetImage("assets/sample.jpg"),
               ),
-              Text("Ioria",
+              Text("SETSUNA F.SAYEI",
                   style: TextStyle(
                     fontFamily: 'Pacifico',
                     fontSize: 40.0,
